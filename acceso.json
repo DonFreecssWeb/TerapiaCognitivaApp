@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "terapiamemoria-b4713",
+  "private_key_id": "a99aec54e60b843c450c9086127addf5d6210c01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrOXd/xPpHKDuD\nH8gh4oAKHi9yS2e9OWt5iUPibY86IG7cW+cQHnlKBQYnFsI4BXp3fzCxoat1PBMA\n3NFZw+W6B3wZcpbFhWLKFlbNB6ZqxW2TLw7X83ANPHmq9lP/1NjgLFoVZ2M/Mpmb\nQZJiKHITIYOkyBedDFY1bxKLD3SrCkddxeeYlVtdib6RmO+2Y4LD/+774dWdxQsY\nvIAR1jgzFSQB6yeoM5LvRF2INEBORIzerd9YFlrboKLopTu/ySy+Q8STtMYYtrcT\nJ/fwlNHwzRS+fCRzRkb4TD+9WSB9kquTHAMFenAAMMJi7k4cRvnn1cUUkTHxiDu6\nER/QulVFAgMBAAECgf9A6++WpLLrnWau+8Rd4YO76/pVwkGTW6mo0dqFESej0XUm\nXKE/4cWS08xOOR+vUVNiYizhLTheKiTGLvPcrvL0YxVVf7beYQpHUWRCv7TiYKP4\nO71lEyzgxton1nGcsTnOcJxACeJkemSym6GyHrTd4XDVkoAuYUvoTBMAHpfZuUmk\nnpzu4G/WqcdBAFhE5DrgSDsMiWu+1sJudPax5R62/9V8fOE4buV4sZKF7FO64TMm\n+TN9ReWUoVUPWu2uL4HKVqTe/WQhr1IEQeRXb2EZoFhg2CH15zZ9XUerR7UDqWja\n0Ly/vGvF0mK72NgNPDsleAy0wiad0KOQtPAzFAECgYEA77pfBXSFD06DrBjMORtq\nOkO3ntJWPuqA8Bf5DPKvtjCOM1xRu58nA0iQlxJirkKSoN/kXr75FdFn4Q/RATlt\nsgOd3yjq4fgj4KLOSJ5T5E/K15+3LCjS/jbsw0pu2UJj8l8QwO142oUdw+qz4x5k\nkIJc+LPontchJ/SgE98xx1ECgYEAtti+0ssJKuAqmV8u05s6x7UV6/LGITVk4jO1\nkounswny2vhxbHQBABQXWhu4eJY6BODKriWT/M+DXFWb/tOYWQjFGiOqmzETlGm6\nRw91AVD+bUikrWCCeac8ObksoHoIrrK/UrccCWnoBtm5a/ZKdQyXwQPNWPi8B7ED\naTOZmbUCgYEA2S8x0xFjUyDArfOxYbNyo+KhwmOw+0MdGWe+nHppsld/HQzwh1iC\n0bi2NgfUGyf5C4KLtUKzC48x23am1cMfnH0mU/0P/zT93A/jb2rxehDIJl1uZ7V8\nog9EpREUKAS74+M4nHEIYoDjHJHP812fokRY0oC7qNwiD77SH+6/fGECgYEAjDob\n1qOZy0URxoAF9IknAkPxpPuSUaOWVBheFx59pURq+N3ydr9ciQffhN6fkfN8WYNg\nTUBKh2dKEgUh1sPGIfok11AlJlHz9y1Ci/7ht/m6tmswyDqstcm42XgXLpeIkxpI\nupHtsZaEOMS/fHntTmky9PcKhEJ2SdvKhuLo2MUCgYAEtsgba6Py5kPs5F8sansD\nphXHwvC/2g7pzlFI4KYIdZ8PgBgv30zlWgzgvuIcR58rEoDNIu+tVKXx6WMtKiIf\nNyoZtCVeKmhyfQRx/CRoJfguVmpdhYIPFnXvbLajwywppTXCTTzT/oCZv5KQM3Iw\nbjt8CmT5lkRNVAG9A/I5Pw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hxu6x@terapiamemoria-b4713.iam.gserviceaccount.com",
+  "client_id": "108767944131478449875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hxu6x%40terapiamemoria-b4713.iam.gserviceaccount.com"
+}
