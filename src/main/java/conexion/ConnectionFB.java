@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package conexion;
 
 import com.google.auth.oauth2.GoogleCredentials;
@@ -12,10 +9,6 @@ import com.google.firebase.FirebaseOptions;
 import com.google.firebase.cloud.FirestoreClient;
 import java.io.FileInputStream;
 
-/**
- *
- * @author Jorge
- */
 public  class  ConnectionFB {
    private  Firestore db = null;
    private  static ConnectionFB instance  = new ConnectionFB();;
